@@ -1,12 +1,13 @@
 ### Stock Increment install ## 
 
-- Copy folder in app/code
-- Run commands : 
+Copy folder in app/code
 
-php bin/magento setup:upgrade
-php bin/magento setup:di:compile
-php bin/magento setup:static-content:Deploy -f
-php bin/magento cache:flush
+Run commands : 
+
+- php bin/magento setup:upgrade 
+- php bin/magento setup:di:compile
+- php bin/magento setup:static-content:Deploy -f 
+- php bin/magento cache:flush 
 
 Now you can find your new extention in system - stock - stock increment 
 
