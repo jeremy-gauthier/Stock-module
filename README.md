@@ -1,13 +1,15 @@
 # Stock-module
-
-Magento 2.3.*
+Magento 2 Module
 
 Update your stock with CSV file
+
+<img width="155" alt="Capture d’écran 2021-04-12 à 18 42 11" src="https://user-images.githubusercontent.com/52053028/114430515-cd933400-9bbe-11eb-804c-2d8b25ae9075.png">
+
 
 
 ## How to setup this module : ##
 
-Copy folder in app/code
+copy the module to the file app/code
 
 Run commands :
 
