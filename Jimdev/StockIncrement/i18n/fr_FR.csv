@@ -1,0 +1,8 @@
+"Your stocks have been updated","Vos stocks ont bien été mis à jour"
+"Error Please check your CSV","Erreur Veuillez vérifier votre CSV"
+"The CSV file must contain a sku column and a qty column with the new quantities to add or subtract from the stock","Le fichier CSV doit contenir une colonne "sku" et une colonne "qty" avec les nouvelles quantité à ajouter ou soustraire au stock"
+"Import your new quantities","Importez vos nouvelles quantités"
+"Inventory update","Mise à jour des stocks"
+"send file","Envoyer le fichier"
+"send","envoyer"
+"Import stock","Importer les stocks"

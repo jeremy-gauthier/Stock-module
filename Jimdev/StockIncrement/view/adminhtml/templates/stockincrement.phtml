@@ -1,0 +1,12 @@
+<h1>Inventory update</h1>
+<form action="<?php echo $block->getFormAction()?>" method="POST" enctype="multipart/form-data">
+  <?php echo $block->getBlockHtml('formkey')?>
+  <label>Import your new quantities</label><br><br>
+  <input name="document" type="file" accept=".csv" />
+  <br><br>
+  <input type="submit" name="send" value="Send file">
+</form>
+<br>
+<p>The CSV file must contain a sku column and a qty column with the new quantities to add or subtract from the stock</p>
+
+

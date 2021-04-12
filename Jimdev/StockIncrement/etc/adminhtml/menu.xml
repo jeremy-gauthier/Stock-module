@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+      <add id="Jimdev_StockIncrement::stock" title="Stock" translate="title" module="Jimdev_StockIncrement" parent="Magento_Backend::system" sortOrder="50" dependsOnModule="Jimdev_StockIncrement" resource="Jimdev_StockIncrement::stock"/>
+      <add id="Jimdev_StockIncrement::stock_stockincrement" title="Stock Increment" translate="title" module="Jimdev_StockIncrement" parent="Jimdev_StockIncrement::stock" sortOrder="10" dependsOnModule="Jimdev_StockIncrement" action="stockincrement/stockincrement" resource="Jimdev_StockIncrement::stock"/>
+    </menu>
+</config>

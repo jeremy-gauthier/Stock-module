@@ -1,0 +1,8 @@
+"Your stocks have been updated","Your stocks have been updated"
+"Error Please check your CSV","Error Please check your CSV"
+"The CSV file must contain a sku column and a qty column with the new quantities to add or subtract from the stock","The CSV file must contain a sku column and a qty column with the new quantities to add or subtract from the stock"
+"Import your new quantities","Import your new quantities"
+"Inventory update","Inventory update"
+"send file","send file"
+"send","send"
+"Import stock","Import stock"
